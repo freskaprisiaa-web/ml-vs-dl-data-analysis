@@ -1,6 +1,3 @@
-# ml-vs-dl-data-analysis
-Comparative analysis of Machine Learning and Deep Learning models across tabular, image, and text data to evaluate model performance and data-driven model selection.
-
 # Machine Learning vs Deep Learning Across Data Types
 
 This project explores the performance comparison between traditional Machine Learning and Deep Learning models across three different types of data: tabular, image, and text.
